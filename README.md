@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I'am Vishal Sahu known as Introvert in Programming Community</h1>
+<h1 align="center">Hi, (●ˇ∀ˇ●)   I'am Vishal Sahu</h1>
 <h3 align="center">An Enthusiastic and self motivating programmer who love to do problem solving and learning new things.</h3>
 
 - 🔭 I’m currently working on **College Query**
@@ -9,11 +9,13 @@
 
 - 📝 I write some articles on [https://leetcode.com/Introvert_18/](https://leetcode.com/Introvert_18/)
 
-- 💬 Ask me about **Data Structure and Algorithm.**
+- 💬 Ask me about **Any thing that I learned so far 😉 .**
 
 - 📫 How to reach me **vishalsahu1827@gmail.com**
 
-- ⚡ Fun fact **If you are searching for a enthusiastic Software Engineer then your journey ends here xD.**
+- 😎 known as **Introvert** in Programming Community
+
+- ⚡ Fun fact **If you are searching for a enthusiastic Software Engineer then your journey ends here 😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
