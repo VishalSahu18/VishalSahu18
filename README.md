@@ -1,21 +1,21 @@
-<h1 align="center">Hi, (●ˇ∀ˇ●)   I'am Vishal Sahu</h1>
-<h3 align="center">An Enthusiastic and self motivating programmer who love to do problem solving and learning new things.</h3>
+<h1 align="center">Hi, 🖐🏼 I'am Vishal</h1>
+<h3 align="center">A final year Software Enthusiast!</h1>
 
-- 🔭 I’m currently working on **College Query**
+- 😎 known as **Introvert** in Programming Community
 
-- 🌱 I’m currently learning **JavaScript, Computer Networks, DBMS and list going on and on.**
+- 🌱 Currently learning **JavaScript, Computer Networks, DBMS and list going on and on.**
+
+- 📕 A Good knowledge of Data Structure and Algorithms.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Introvert1827](https://github.com/Introvert1827)
 
 - 📝 I write some articles on [https://leetcode.com/Introvert_18/](https://leetcode.com/Introvert_18/)
 
-- 💬 Ask me about **Any thing that I learned so far 😉 .**
+- 💬 Ask me about **Any thing that I learned so far 😉**
 
-- 📫 How to reach me **vishalsahu1827@gmail.com**
+- 📫 You can do a conversation with me here **vishalsahu1827@gmail.com**
 
-- 😎 known as **Introvert** in Programming Community
 
-- ⚡ Fun fact **If you are searching for a enthusiastic Software Engineer then your journey ends here 😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
