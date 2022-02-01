@@ -3,8 +3,6 @@
 
 - 😎 known as **Introvert** in Programming Community
 
-- 🌱 Currently learning **JavaScript, Computer Networks, DBMS and list going on and on.**
-
 - 📕 A Good knowledge of Data Structure and Algorithms.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Introvert1827](https://github.com/Introvert1827)
