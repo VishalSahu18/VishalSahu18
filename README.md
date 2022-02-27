@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Introvert1827](https://github.com/Introvert1827)
 
-- 📝 I write some articles on [https://leetcode.com/Introvert_1827/](https://leetcode.com/Introvert_18/)
+- 📝 I write some articles on [https://leetcode.com/Introvert_1827/](https://leetcode.com/Introvert_1827/)
 
 - 💬 Ask me about **Any thing that I learned so far 😉**
 
@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/vishal sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal sahu" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/introvert_1827" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="introvert_1827" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Introvert_1827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Introvert_1827" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Introvert_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Introvert_18" height="30" width="40" /></a>
+<a href="https://leetcode.com/Introvert_1827/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Introvert_18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
