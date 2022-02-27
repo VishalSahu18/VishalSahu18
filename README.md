@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Introvert1827](https://github.com/Introvert1827)
 
-- 📝 I write some articles on [https://leetcode.com/Introvert_18/](https://leetcode.com/Introvert_18/)
+- 📝 I write some articles on [https://leetcode.com/Introvert_1827/](https://leetcode.com/Introvert_18/)
 
 - 💬 Ask me about **Any thing that I learned so far 😉**
 
