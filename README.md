@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 🖐🏼 I'am Vishal</h1>
 <h3 align="center">A final year Software Enthusiast!</h1>
 
-- 😎 known as **Introvert** in Programming Community
+- 🙋🏼‍♂️Looking for full time Software Development role in good Product Based Company
 
 - 📕 Having a Good knowledge of Data Structure and Algorithms.
 
