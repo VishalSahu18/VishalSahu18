@@ -11,9 +11,6 @@
 
 - 💬 Ask me about **Any thing that I learned so far 😉**
 
-- 📫 You can do a conversation with me here **vishalsahu1827@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
