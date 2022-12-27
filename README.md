@@ -3,7 +3,7 @@
 
 - 🙋🏼‍♂ Love to explore different technologies.
 
-- 📕 Having a Good knowledge of Data Structure and Algorithms.
+- 📕 Having a Good knowledge of Web Development, Data Structure and Algorithms.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Introvert1827](https://github.com/Introvert1827)
 
