@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 🖐🏼 I'am Vishal</h1>
-<h3 align="center">A final year Software Enthusiast!</h1>
+<h3 align="center">A Coding Enthusiast!</h1>
 
-- 🙋🏼‍♂️Looking for full time Software Development role
+- 🙋🏼‍♂ Love to explore different technologies.
 
 - 📕 Having a Good knowledge of Data Structure and Algorithms.
 
