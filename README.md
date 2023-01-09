@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [[https://github.com/VishalSahu18](https://github.com/VishalSahu18/)]
 
-- 📝 I write some articles on [[https://leetcode.com/VishalSahu18/](https://leetcode.com/VishalSahu18/)]
-
 - 💬 Ask me about **Any thing that I learned so far 😉**
 
 
