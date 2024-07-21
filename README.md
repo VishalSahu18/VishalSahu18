@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [[https://github.com/VishalSahu18](https://github.com/VishalSahu18/)]
 
-- 💬 Ask me about **Any thing that I learned so far 😉**
+- 💬 Ask me **Any thing that I learned so far 😉**
 
 
 <h3 align="left">Connect with me:</h3>
