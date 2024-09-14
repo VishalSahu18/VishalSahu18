@@ -1,26 +1,97 @@
-<h1 align="center">Hi, 🖐🏼 I'am Vishal</h1>
-<h3 align="center">A Coding Enthusiast!</h1>
-
-- 🙋🏼‍♂ Love to explore different technologies.
-
-- 📕 Having a Good knowledge of Web Development, Data Structure and Algorithms.
-
-- 👨‍💻 All of my projects are available at [[https://github.com/VishalSahu18](https://github.com/VishalSahu18/)]
-
-- 💬 Ask me **Any thing that I learned so far 😉**
+# 👋 Hello, I'm Vishal Sahu!🚀
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishal sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal sahu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/introvert_1827" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="introvert_1827" height="30" width="40" /></a>
-<a href="https://leetcode.com/VishalSahu18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="VishalSahu18" height="30" width="40" /></a>
-</p>
+I am a tech enthusiast and passionate software engineer with nearly 2 years of professional experience in both backend and frontend development. I have a strong foundation in **Data Structures and Algorithms**, combined with hands-on expertise in modern programming languages like **C/C++, Java, and JavaScript**. My technical proficiency extends to developing high-performance, scalable applications using frameworks such as **Java, Spring Boot, React.js, and Tailwind CSS**.
 
-<h3 align="left">Tools and Programming Languages:</h3>
+Over the past 2 years, I have actively contributed to the development of enterprise-grade Java services and in-house software products, leveraging cutting-edge technologies like **Java, Spring Boot, Kafka, React.js, MySQL, Material-UI**, and **Camunda**. My ability to deliver end-to-end solutions is complemented by my work on personal projects utilizing technologies like **Node.js, Express.js, React.js**, and **MongoDB**, demonstrating a commitment to continuous learning and full-stack versatility.
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishalSahu18&show_icons=true&locale=en&layout=compact" alt="VishalSahu18" /></p>
+## 🔧 Technical Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VishalSahu18&show_icons=true&locale=en" alt="VishalSahu18" /></p>
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Frameworks & Libraries
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### 📚 Core Computer Science Concepts
+
+- 🧑‍💻**OOP (Object-Oriented Programming)**: Concepts like Encapsulation, Inheritance, Polymorphism, and Abstraction.
+- 🖥️ **Operating Systems**: Expertise in Process Management, Memory Management, Multithreading, and Concurrency.
+- 🗄️ **DBMS (Database Management Systems)**: Strong understanding of Relational Databases, SQL Queries, Normalization, and Indexing.
+- 🌐 **Computer Networks**: Knowledge of TCP/IP, HTTP, Socket Programming, and Network Protocols.
+
+
+
+### Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda-B7178C?style=for-the-badge&logo=camunda&logoColor=white)
+
+### 🚀 Additional Expertise
+
+- **📊 Data Structures & Algorithms**: Proficient in solving complex problems with optimized algorithms and efficient data structure usage.
+- **🏗️ System Design**: Skilled in architecting highly scalable, fault-tolerant, and efficient distributed systems.
+- **🧑‍💻 OOP Design**: Expertise in crafting modular, reusable, and maintainable software using object-oriented design patterns and principles.
+
+
+---
+
+## 📌 Featured Projects
+
+### [📊 Trouble Ticketing System](https://github.com/yourusername/trouble-ticketing-system)
+A microservice-based **trouble ticketing tool** developed using Java, Spring Boot, Kafka, and React. It automates workflows with **Camunda** and uses **Material-UI** for the frontend.
+- **Technologies**: Java, Spring Boot, Kafka, MySQL, React, Camunda
+- **Features**: Ticket management, Kafka messaging, user roles, REST API
+
+### [💬 Real-time Chat Application](https://github.com/yourusername/chat-app)
+A real-time chat application using **Node.js**, **Socket.io**, and **MongoDB** for messaging and persistence. The frontend is built with **React** and **Tailwind CSS**.
+- **Technologies**: Node.js, Express, Socket.io, MongoDB, React
+- **Features**: Real-time messaging, JWT authentication, private chat rooms
+
+### [🔐 User Management System](https://github.com/yourusername/user-management-system)
+A **CRUD** user management system featuring authentication, authorization, and user roles. Built with **Node.js**, **Express**, and **MongoDB**.
+- **Technologies**: Node.js, Express, MongoDB, EJS, JWT
+- **Features**: User registration, JWT-based authentication, admin dashboards
+
+---
+
+## 🏆 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalSahu18&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSahu18&layout=compact&theme=radical)
+
+---
+
+## 🌍 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+---
+
+⭐️ Feel free to check out my repositories and give a star if you like them! Let's collaborate and grow together!
