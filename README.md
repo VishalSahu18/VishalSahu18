@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Vishal Sahu!🚀
 
 
-I am a tech enthusiast and passionate software engineer with nearly 2 years of professional experience in both backend and frontend development. I have a strong foundation in **Data Structures and Algorithms**, combined with hands-on expertise in modern programming languages like **C/C++, Java, and JavaScript**. My technical proficiency extends to developing high-performance, scalable applications using frameworks such as **Java, Spring Boot, React.js, and Tailwind CSS**.
+I am a tech enthusiast and passionate software engineer with nearly 2 years of professional experience in both backend and frontend development. I have a strong foundation in **Data Structures and Algorithms**, combined with hands-on expertise in modern programming languages like **C/C++, Java, and JavaScript**. My technical proficiency extends to developing high-performance, scalable applications using **Java, Spring Boot, React.js, and Tailwind CSS**.
 
 Over the past 2 years, I have actively contributed to the development of enterprise-grade Java services and in-house software products, leveraging cutting-edge technologies like **Java, Spring Boot, Kafka, React.js, MySQL, Material-UI**, and **Camunda**. My ability to deliver end-to-end solutions is complemented by my work on personal projects utilizing technologies like **Node.js, Express.js, React.js**, and **MongoDB**, demonstrating a commitment to continuous learning and full-stack versatility.
 
