@@ -61,20 +61,54 @@ Over the past 2 years, I have actively contributed to the development of enterpr
 
 ## 📌 Featured Projects
 
-### [📊 Trouble Ticketing System](https://github.com/yourusername/trouble-ticketing-system)
-A microservice-based **trouble ticketing tool** developed using Java, Spring Boot, Kafka, and React. It automates workflows with **Camunda** and uses **Material-UI** for the frontend.
-- **Technologies**: Java, Spring Boot, Kafka, MySQL, React, Camunda
-- **Features**: Ticket management, Kafka messaging, user roles, REST API
+### [🛠️ Trouble Ticket Managing Tool](https://github.com/VishalSahu18/trouble-ticketing-system)
 
-### [💬 Real-time Chat Application](https://github.com/yourusername/chat-app)
-A real-time chat application using **Node.js**, **Socket.io**, and **MongoDB** for messaging and persistence. The frontend is built with **React** and **Tailwind CSS**.
-- **Technologies**: Node.js, Express, Socket.io, MongoDB, React
-- **Features**: Real-time messaging, JWT authentication, private chat rooms
+A robust and efficient tool designed to streamline the management of trouble tickets in an organization. Built with **Java, Spring Boot, MySQL**, and **Camunda** to ensure smooth ticket handling, tracking, and resolution.
 
-### [🔐 User Management System](https://github.com/yourusername/user-management-system)
-A **CRUD** user management system featuring authentication, authorization, and user roles. Built with **Node.js**, **Express**, and **MongoDB**.
-- **Technologies**: Node.js, Express, MongoDB, EJS, JWT
-- **Features**: User registration, JWT-based authentication, admin dashboards
+## 🛠 Technologies Used  
+
+- **Backend:** Java, Spring Boot, Kafka  
+- **Database:** MySQL, H2 (for local testing)  
+- **Workflow Engine:** Camunda
+- 
+## 🚀 Features  
+- 🎟️ **Ticket Creation & Management** with automated workflows  
+- ⚙️ **Real-time Ticket Updates** and status tracking  
+- 📬 **Email & SMS Notifications** for ticket updates  
+- 🔐 **User Authentication & Authorization** with role-based access control  
+- 🧑‍💻 **Admin Dashboard** for managing tickets, users, and workflows  
+
+### [💬 Chat Buddies](https://github.com/VishalSahu18/ChatBuddies)
+ 
+A real-time chat application that enables users to send instant messages, join chat rooms, and experience seamless communication. Built with **Node.js, Express, Socket.io, MongoDB, and React** for a smooth and interactive chatting experience.
+
+## 🛠 Technologies Used  
+- **Frontend:** React.js, Zustand, Tailwind CSS, DaisyUI  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Real-time Communication:** Socket.io  
+- **Authentication:** JWT-based authentication  
+
+## 🚀 Features  
+- 🔐 **User Authentication & Authorization** (JWT-based)  
+- 💡 **Real-time Messaging** powered by Socket.io  
+- 🏠 **Public & Private Chat Rooms**  
+- 📜 **Message History Persistence** using MongoDB  
+- 🚀 **Online/Offline User Status**  
+- 🎨 **Responsive UI** with Tailwind CSS & DaisyUI
+
+### [🍔 Food Delivery App](https://github.com/VishalSahu18/food-delivery-app)
+A full-stack food delivery application that enables users to browse restaurants, place orders, and track deliveries in real time. Built with the **MERN stack** for seamless performance and scalability.
+
+## 🛠 Technologies Used  
+- **Frontend:** React.js, Redux, 
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Authentication:** JWT-based authentication  
+
+## 🚀 Features  
+- 🔐 **User Authentication & Authorization** (JWT-based)  
+- 🍽️ **Browse & Search** for restaurants and dishes  
+- 🛒 **Cart Management** for easy order processing   
+- 📊 **Admin Dashboard** for managing restaurants, menus, and orders  
 
 ---
 
