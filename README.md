@@ -1,9 +1,12 @@
-# 👋 Hello, I'm Vishal Sahu!🚀
+# 👋 Hello, My Self Vishal Sahu!🚀
 
+👨‍💻 Passionate Software Engineer
 
-I am a tech enthusiast and passionate software engineer with nearly 2 years of professional experience in both backend and frontend development. I have a strong foundation in **Data Structures and Algorithms**, combined with hands-on expertise in modern programming languages like **C/C++, Java, and JavaScript**. My technical proficiency extends to developing high-performance, scalable applications using **Java, Spring Boot, React.js, and Tailwind CSS**.
-
-Over the past 2 years, I have actively contributed to the development of enterprise-grade Java services and in-house software products, leveraging cutting-edge technologies like **Java, Spring Boot, Kafka, React.js, MySQL, Material-UI**, and **Camunda**. My ability to deliver end-to-end solutions is complemented by my work on personal projects utilizing technologies like **Node.js, Express.js, React.js**, and **MongoDB**, demonstrating a commitment to continuous learning and full-stack versatility.
+🔹 2+ years of experience in backend & frontend development
+🔹 Proficient in Java, Spring Boot, JavaScript, React.js,
+🔹 Experienced with Data Structures & Algorithms and scalable, high-performance applications
+🔹 Skilled in MySQL, MongoDB, Camunda, Tailwind CSS
+🔹 Building end-to-end solutions with a focus on continuous learning.
 
 ---
 
@@ -12,9 +15,7 @@ Over the past 2 years, I have actively contributed to the development of enterpr
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -33,15 +34,6 @@ Over the past 2 years, I have actively contributed to the development of enterpr
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 📚 Core Computer Science Concepts
-
-- 🧑‍💻**OOP (Object-Oriented Programming)**: Concepts like Encapsulation, Inheritance, Polymorphism, and Abstraction.
-- 🖥️ **Operating Systems**: Expertise in Process Management, Memory Management, Multithreading, and Concurrency.
-- 🗄️ **DBMS (Database Management Systems)**: Strong understanding of Relational Databases, SQL Queries, Normalization, and Indexing.
-- 🌐 **Computer Networks**: Knowledge of TCP/IP, HTTP, Socket Programming, and Network Protocols.
-
-
-
 ### Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -55,7 +47,6 @@ Over the past 2 years, I have actively contributed to the development of enterpr
 - **📊 Data Structures & Algorithms**: Proficient in solving complex problems with optimized algorithms and efficient data structure usage.
 - **🏗️ System Design**: Skilled in architecting highly scalable, fault-tolerant, and efficient distributed systems.
 - **🧑‍💻 OOP Design**: Expertise in crafting modular, reusable, and maintainable software using object-oriented design patterns and principles.
-
 
 ---
 
