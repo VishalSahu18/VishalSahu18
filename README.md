@@ -1,54 +1,17 @@
 # 👋 Hello, My Self Vishal Sahu!🚀
 
-👨‍💻 Passionate Software Engineer
+👨‍💻 **Passionate Software Engineer**
 
-🔹 2+ years of experience in backend & frontend development
-🔹 Proficient in Java, Spring Boot, JavaScript, React.js,
-🔹 Experienced with Data Structures & Algorithms and scalable, high-performance applications
-🔹 Skilled in MySQL, MongoDB, Camunda, Tailwind CSS
-🔹 Building end-to-end solutions with a focus on continuous learning.
+🔹 **2+ years** of experience in **backend** & **frontend development**.
 
----
+🔹 Proficient in **Java, Spring Boot, JavaScript, React.js**.
 
-## 🔧 Technical Skills
+🔹 Experienced with **Data Structures & Algorithms** and **scalable, high-performance applications**.
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🔹 Skilled in **MySQL, MongoDB, Camunda, Tailwind CSS**.
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+🔹 Building **end-to-end solutions** with a focus on **continuous learning**.
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Frameworks & Libraries
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### Tools & IDEs
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Camunda](https://img.shields.io/badge/Camunda-B7178C?style=for-the-badge&logo=camunda&logoColor=white)
-
-### 🚀 Additional Expertise
-
-- **📊 Data Structures & Algorithms**: Proficient in solving complex problems with optimized algorithms and efficient data structure usage.
-- **🏗️ System Design**: Skilled in architecting highly scalable, fault-tolerant, and efficient distributed systems.
-- **🧑‍💻 OOP Design**: Expertise in crafting modular, reusable, and maintainable software using object-oriented design patterns and principles.
-
----
 
 ## 📌 Featured Projects
 
@@ -61,7 +24,7 @@ A robust and efficient tool designed to streamline the management of trouble tic
 - **Backend:** Java, Spring Boot, Kafka  
 - **Database:** MySQL, H2 (for local testing)  
 - **Workflow Engine:** Camunda
-- 
+ 
 ## 🚀 Features  
 - 🎟️ **Ticket Creation & Management** with automated workflows  
 - ⚙️ **Real-time Ticket Updates** and status tracking  
