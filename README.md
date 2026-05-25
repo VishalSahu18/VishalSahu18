@@ -2,7 +2,7 @@
 
 👨‍💻 **Passionate Software Engineer**
 
-🔹 **3+ years** of experience in **backend** & **frontend development**.  
+🔹 **3.5+ years** of experience in **backend** & **frontend development**.  
 🔹 Proficient in **Java, Spring Boot, JavaScript, React.js**.  
 🔹 Experienced with **Data Structures & Algorithms** and **scalable, high-performance applications**.  
 🔹 Skilled in **MySQL, MongoDB, Camunda, Tailwind CSS**.  
