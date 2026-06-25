@@ -5,11 +5,11 @@
 🔹 **3.5+ years** of experience in **backend** & **frontend development**.  
 🔹 Proficient in **Java, Spring Boot, JavaScript, React.js**.  
 🔹 Experienced with **Data Structures & Algorithms** and **scalable, high-performance applications**.  
-🔹 Skilled in **MySQL, MongoDB, Camunda, Tailwind CSS**.  
+🔹 Skilled in **MySQL,Postgresql**.  
 🔹 Building **end-to-end solutions** with a focus on **continuous learning**.  
 
 
-## 📌 Featured Projects
+<!--## 📌 Featured Projects
 
 ### [💬 Chat Buddies](https://github.com/VishalSahu18/ChatBuddies)
  
@@ -22,7 +22,7 @@ A real-time chat application that enables users to send instant messages, join c
 A full-stack food delivery application that enables users to browse restaurants, place orders, and track deliveries in real time. Built with the **MERN stack** for seamless performance and scalability.
 
 🛠 **Technologies Used:** Node.js, Express.js, MongoDB, React.js, Redux.   
-🚀 **Features:**  User Authentication & Authorization | Browse & Search | Cart Management | Admin Dashboard.  
+🚀 **Features:**  User Authentication & Authorization | Browse & Search | Cart Management | Admin Dashboard.  -->
 
 ## 🏆 GitHub Stats
 
